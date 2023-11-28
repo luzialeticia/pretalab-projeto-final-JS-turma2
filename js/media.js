@@ -1,6 +1,6 @@
 /*
   Calcule a média da estudante, em seguida, com base na nota exiba as seguintes 
-  frases usando uma estrutura de condição:
+  frases:
     1. Se a nota for 0, mostre na tela: "Infelizmente você zerou a prova :( "
     2. Se a nota for entre 0.1 e 3, mostre na tela: 
       "Caramba, deu ruim, você obteve media {nota}! Estude mais e tente novamente!"
